@@ -1,4 +1,3 @@
-# poememenon-script
 # notslandin
-# notslandin
-# notslandin
+
+Code for javascript poems
