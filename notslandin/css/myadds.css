@@ -1,0 +1,15 @@
+
+.dropdown-menu a.dropdown-item {
+    color: black;
+    /*font-size: 32px;*/
+}
+
+button {
+
+	color: green;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 400;
+	/*border: 1px solid #42DCA3;*/
+    color: #42DCA3;
+
+}
